@@ -106,3 +106,8 @@ a:hover{
   color: white;
   background-color: green;
 }
+
+li:hover{
+  color: white;
+  background-color: green;
+}
