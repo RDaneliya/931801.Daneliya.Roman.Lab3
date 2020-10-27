@@ -101,3 +101,8 @@ main > p:first-letter {
   color: red;
   font-size: 20px;
 }
+
+a:hover{
+  color: white;
+  background-color: green;
+}
