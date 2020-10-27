@@ -54,7 +54,6 @@ nav {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   flex-shrink: 0;
-  height: 100vh;
 }
 
 nav > ul {
